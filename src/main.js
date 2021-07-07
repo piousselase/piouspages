@@ -7,12 +7,13 @@ import vuetify from "./plugins/vuetify";
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCsPawRH64bygKjBEE3VFXcLw_0_jtaR0I",
-  authDomain: "userrrr-8c0ca.firebaseapp.com",
-  projectId: "userrrr-8c0ca",
-  storageBucket: "userrrr-8c0ca.appspot.com",
-  messagingSenderId: "261872576434",
-  appId: "1:261872576434:web:fdcdffd69efdc48ff166ab"
+  apiKey: "AIzaSyDwZ7CHcxlwID4bakPu5CpoFpLH8UASol4",
+  authDomain: "selasepages.firebaseapp.com",
+  projectId: "selasepages",
+  storageBucket: "selasepages.appspot.com",
+  messagingSenderId: "852023853605",
+  appId: "1:852023853605:web:bedb17574e8f61503875cc",
+  measurementId: "G-6X49J2PV96"
 };
 
 firebase.initializeApp(firebaseConfig);
